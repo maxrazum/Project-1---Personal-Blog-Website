@@ -15,6 +15,12 @@ a {
     text-decoration: none;
 }
 
+h1,
+h2,
+h3 {
+    margin: 0;
+}
+
 .container {
     display: grid;
     grid-template-columns: 100%;
@@ -125,6 +131,7 @@ footer {
 
 /* responsive layout */
 @media(min-width: 801px) {
+
     .post-card {
         margin: 3rem;
     }
@@ -153,4 +160,5 @@ footer {
     #post4 {
         grid-area: post4;
     }
+    
 }
