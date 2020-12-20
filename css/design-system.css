@@ -7,14 +7,16 @@
     "main"
     "nav"
     "ft";
-    justify-content: center;*/
+    justify-content: center;
 }
 
+/* header */
 .design {
     grid-area: hd;
     background: #f6f6f6;
 }
 
+/* post card */
 .design-post-card {
     display: flex;
     flex-direction: column;
@@ -33,6 +35,7 @@
     width: 100%;
 }
 
+/* color circle */
 .circle {
     width: 100px;
     height: 100px;
