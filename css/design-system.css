@@ -1,0 +1,57 @@
+.design-container {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 150px auto 200px 100px;
+    grid-template-areas: 
+    "hd"
+    "main"
+    "nav"
+    "ft";
+    justify-content: center;*/
+}
+
+.design {
+    grid-area: hd;
+    background: #f6f6f6;
+}
+
+.design-post-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5rem;
+    padding: 1rem;
+    box-shadow: 1px 1px 8px black;
+    background: white;
+}
+
+.typography {
+    width: 100%;
+}
+
+.colors {
+    width: 100%;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    margin: 1rem;
+}
+
+#color-jet {
+    background-color: #303030;
+}
+
+#color-silver {
+    background-color: #ebebeb;
+}
+
+#color-grey {
+    background-color: #f6f6f6;
+}
+
+.jet-text {
+    color: #ebebeb;
+}

@@ -17,6 +17,10 @@
     padding: 1rem;
 }
 
+.av-image:hover {
+    opacity: 0.5;
+}
+
 #av {
     width: 2rem;
     border-radius: 50%;

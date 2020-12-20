@@ -81,6 +81,10 @@ nav {
     align-items: center;
 }
 
+.fa:hover {
+    opacity: 0.5;
+}
+
 /* button */
 .button {
     padding: 0.5rem;
