@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 100%;
     grid-template-rows: 100px min-content auto 250px 150px;
-    grid-template-areas: 
+    grid-template-areas:
     "hd"
     "av"
     "main"
