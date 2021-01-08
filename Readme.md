@@ -2,7 +2,7 @@
 
 ## Project one:
 
-* Personal blog website
+* Personal blog website [live link to website](https://maxrazum.github.io/Blog/index.html)
 
 ## Original requirements:
 
